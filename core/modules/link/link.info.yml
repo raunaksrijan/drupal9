@@ -1,0 +1,12 @@
+name: Link
+type: module
+description: 'Provides a simple link field type.'
+package: Field types
+# version: VERSION
+dependencies:
+  - drupal:field
+
+# Information added by Drupal.org packaging script on 2020-05-06
+version: '9.1.x-dev'
+project: 'drupal'
+datestamp: 1588776414

@@ -1,0 +1,12 @@
+name: 'New Dependency test'
+type: module
+description: 'Support module for update testing.'
+package: Testing
+# version: VERSION
+dependencies:
+  - new_dependency_test_with_service
+
+# Information added by Drupal.org packaging script on 2020-05-06
+version: '9.1.x-dev'
+project: 'drupal'
+datestamp: 1588776414
